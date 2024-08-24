@@ -1,4 +1,5 @@
-JPMC test shared on 
+Solution to JPMC test shared for job code: 210531620
+By: Vijay More
 
 **Problem statement:**
 Given a long statement and a input letter, find the word which contains the most number of the given character. If more than one word has the exact same number of the given letter, it should return the word with the most number of total letters, if more than one words have equal number of given character and total number of characters return the word that appeared first in the given statement.
